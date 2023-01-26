@@ -5,6 +5,7 @@
 */
 
 #include <iostream>
+#include "rapidcsv.h"
 
 #ifndef HEADER_H_
 #define HEADER_H_
